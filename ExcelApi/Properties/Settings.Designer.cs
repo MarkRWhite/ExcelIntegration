@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ExcelIntegration.Properties {
+namespace ExcelApi.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
@@ -20,30 +20,6 @@ namespace ExcelIntegration.Properties {
         public static Settings Default {
             get {
                 return defaultInstance;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\Mark-Work\\Desktop\\Test\\ExcelTemplate\\Template.xlsx")]
-        public string TemplatePath {
-            get {
-                return ((string)(this["TemplatePath"]));
-            }
-            set {
-                this["TemplatePath"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\Mark-Work\\Desktop\\Test\\\\ExcelOutput\\")]
-        public string OutputPath {
-            get {
-                return ((string)(this["OutputPath"]));
-            }
-            set {
-                this["OutputPath"] = value;
             }
         }
     }
