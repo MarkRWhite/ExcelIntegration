@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelIntegration", "ExcelIntegration\ExcelIntegration.csproj", "{2DEC028D-F94B-46FC-A392-712257B24B9E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelProofOfConceptForm", "ExcelIntegration\ExcelProofOfConceptForm.csproj", "{2DEC028D-F94B-46FC-A392-712257B24B9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelApi", "ExcelApi\ExcelApi.csproj", "{C409DB3F-3516-4804-9E53-6AC05FF3BC4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelProofOfConcept", "ExcelApi\ExcelProofOfConcept.csproj", "{C409DB3F-3516-4804-9E53-6AC05FF3BC4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

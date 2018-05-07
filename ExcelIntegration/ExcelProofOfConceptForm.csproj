@@ -109,9 +109,9 @@
     </COMReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ExcelApi\ExcelApi.csproj">
+    <ProjectReference Include="..\ExcelApi\ExcelProofOfConcept.csproj">
       <Project>{C409DB3F-3516-4804-9E53-6AC05FF3BC4F}</Project>
-      <Name>ExcelApi</Name>
+      <Name>ExcelProofOfConcept</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
